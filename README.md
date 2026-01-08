@@ -1,4 +1,4 @@
-# 🌤 Django Weather App
+Django Weather App
 
 A simple and clean weather application built with Django that fetches real-time weather data using the OpenWeather API.
 
@@ -6,7 +6,7 @@ This project is created for learning purposes and as a portfolio project.
 
 ---
 
-## 🚀 Features
+ Features
 - Search weather by city name
 - Real-time temperature (°C)
 - Humidity information
@@ -17,7 +17,7 @@ This project is created for learning purposes and as a portfolio project.
 
 ---
 
-## 🛠 Tech Stack
+ Tech Stack
 - Python
 - Django
 - OpenWeather API
@@ -26,7 +26,7 @@ This project is created for learning purposes and as a portfolio project.
 
 ---
 
-## 📂 Project Structure
+Project Structure
 weather/
 ├── main/
 │ ├── views.py
@@ -41,9 +41,9 @@ weather/
 └── README.md
 
 
-## ⚙ Installation & Setup
+Installation & Setup
 
-### 1. Clone the repository
+Clone the repository
 
 git clone https://github.com/golshanhk/django-weather-app.git
 cd django-weather-app
